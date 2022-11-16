@@ -1,7 +1,7 @@
 # QYQXDeepLearning
 DeepLearning
 
-# LeNet
+# 1. LeNet
     model.py: Net model
     train.py: Training and get model file
     predict.py: Testing

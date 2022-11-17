@@ -5,6 +5,8 @@ DeepLearning
     model.py: Net model
     train.py: Training and get model file
     predict.py: Testing
+    
+    datasets: CIFAR10(Pytorch 官网下载)
 
 
 ______

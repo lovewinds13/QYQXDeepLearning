@@ -1,10 +1,21 @@
 # QYQXDeepLearning
+
 DeepLearning
 
 # 1. LeNet
     model.py: Net model
     train.py: Training and get model file
     predict.py: Testing
+	
+	datasets: CIFAR10
+	
+# 2. AlexNet
+    model.py: Net model
+    train.py: Training and get model file (cpu)
+	train_gpu.py: Training and get model file (gpu)
+    predict.py: Testing
+	
+	datasets: classify of flowers
 
 
 ______

@@ -7,7 +7,8 @@ DeepLearning
     train.py: Training and get model file
     predict.py: Testing
 	
-	datasets: CIFAR10
+	datasets: CIFAR10(Pytorch 官网下载)
+	
 	
 # 2. AlexNet
     model.py: Net model
@@ -15,9 +16,10 @@ DeepLearning
 	train_gpu.py: Training and get model file (gpu)
     predict.py: Testing
 	
-	datasets: classify of flowers
+	datasets: classify of flowers(http://download.tensorflow.org/example_images/flower_photos.tgz)
+
 
 
 ______
 # 我的公众号，欢迎关注，共同成长
-![在这里插入图片描述](https://img-blog.csdnimg.cn/f9895d8a1dd544eebdc501bf7f12e56a.png#pic_center)
+![](/images/wx.png)

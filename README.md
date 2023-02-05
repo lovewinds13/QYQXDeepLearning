@@ -18,6 +18,14 @@ DeepLearning
 	
 	datasets: classify of flowers(http://download.tensorflow.org/example_images/flower_photos.tgz)
 
+# 3. VGG
+    model.py: Net model
+    train.py: Training and get model file (cpu)
+	train_gpu.py: Training and get model file (gpu)
+    predict.py: Testing
+	
+	datasets: classify of flowers(http://download.tensorflow.org/example_images/flower_photos.tgz)
+
 
 
 ______
